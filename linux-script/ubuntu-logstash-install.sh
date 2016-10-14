@@ -7,8 +7,8 @@ serviceDir=/path/to/home/folder
 
 # 下载文件
 # 需要根据下载路径进行配置
-filename=logstash-all-plugins-2.4.0.tar.gz
-foldername=logstash-all-plugins-2.4.0
+filename=logstash-all-plugins-2.3.4.tar.gz
+foldername=logstash-all-plugins-2.3.4
 
 # 下载 Logstash，这里直接下载全插件版，就不用配置了
 # https://www.elastic.co/downloads/logstash
